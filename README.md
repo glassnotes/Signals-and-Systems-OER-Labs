@@ -32,3 +32,11 @@ These materials are made available under the CC-0 v1.0 License.
 If you use or extend these labs for your own courses, we would love to see - please get in touch!
 
 If you find any errors, please open an issue in the repository.
+
+## Acknowledgments
+
+We thank UBC's OER Fund Implementation Grant for financial support, and the students in the Fall 2023 cohort of ELEC 221 for their feedback on the first run of the new labs.
+
+ODM thanks the students in the Fall 2022 cohort of ELEC 221 for their enthusiasm, and their feedback on the initial versions of some of the materials.
+
+CT expresses gratitude for the valuable suggestions and assistance provided by [Yekaterina Kharitonova](https://cs.ucsb.edu/index.php/people/faculty/yekaterina-kate-kharitonova) in the preparation of the Intro Lab (Python Crash Course).
