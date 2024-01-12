@@ -37,6 +37,6 @@ If you find any errors, please open an issue in the repository.
 
 We thank UBC's OER Fund Implementation Grant for financial support, and the students in the Fall 2023 cohort of ELEC 221 for their feedback on the first run of the new labs.
 
-ODM thanks the students in the Fall 2022 cohort of ELEC 221 for their enthusiasm, and their feedback on the initial versions of some of the materials.
+ODM thanks the students in the Fall 2022 cohort of ELEC 221 for their enthusiasm and feedback on the initial versions of some of the materials, in particular Simon Ghyselincks ([@chipnbits](https://github.com/chipnbits)) for uncovering some kinks in the simulated AM radio.
 
 CT expresses gratitude for the valuable suggestions and assistance provided by [Yekaterina Kharitonova](https://cs.ucsb.edu/index.php/people/faculty/yekaterina-kate-kharitonova) in the preparation of the Intro Lab (Python Crash Course).
