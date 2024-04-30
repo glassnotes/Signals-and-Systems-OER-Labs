@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11094778.svg)](https://doi.org/10.5281/zenodo.11094778)
+
 # Signals and Systems OER Labs
 
 This repository contains a set of hands-on, guided Jupyter notebooks that we developed to teach undergraduate students topics in signals and systems for ELEC 221 at UBC.
